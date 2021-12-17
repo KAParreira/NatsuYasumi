@@ -1,4 +1,4 @@
 # NatsuYasumi
 
 <img src="web2.png">
-Link: https://kaparreira.github.io/NatsuYasumi/
+ページのリンク (Page link): https://kaparreira.github.io/NatsuYasumi/
