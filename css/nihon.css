@@ -1,0 +1,12 @@
+body{
+
+      background: linear-gradient(90deg, #00008B 10%, #32CD32 90%);
+	
+}
+
+.back {
+	 
+	 background-image: url("../img/tk.jpg");
+	 background-size:cover;
+	 
+}

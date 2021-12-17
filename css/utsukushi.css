@@ -1,0 +1,87 @@
+
+body {
+      
+     background-image: url("../img/eu1.jpg");
+	 background:cover;
+	 background-repeat:no-repeat;
+	 
+}
+
+.superbox {
+	 background: linear-gradient(85deg, #00008B 5%, #32CD32 95%);
+}
+
+
+
+h1 {
+     
+	 color:#4169E1;
+    	
+}
+
+h2 {
+	 
+	 color:#00FF00;
+	 text-align:center;
+	 padding:30%;
+	 
+}
+
+
+
+.box{
+	
+	 padding:3%;
+
+   	 
+
+     
+}
+
+
+
+.card {
+	 
+		
+	 background-color:#1C1C1C;
+	
+}
+
+
+p { 
+     
+  	 color:#FFD700;
+	 
+	 
+}
+
+iframe{
+	 
+	 position:relative;
+	 padding:1%;
+	 width:auto;
+	 height:500px;
+}
+
+
+
+.col-sm-6 {
+	 
+	 padding:2%;
+     	
+}
+
+.btn-group-vertical {
+	 
+	 margin-left:10%;
+	 margin-top:5%;
+	 background-color:#1C1C1C;
+
+}
+
+
+
+
+
+
+
